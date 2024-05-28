@@ -1,2 +1,3 @@
 # Homework_marketing
-This is homework, for my friend's class which I asked for practice. He probably has better code.
+This is homework, for marketing class data analysis.
+Questions were about market analysis using data and machine learning
